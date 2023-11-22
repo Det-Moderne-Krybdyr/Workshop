@@ -4,8 +4,8 @@ import java.util.UUID;
 
 public class Unit {
 
-    private String name;
-    private UUID ID;
+    String name;
+    UUID ID;
 
     public UUID getID(){
         return ID;
